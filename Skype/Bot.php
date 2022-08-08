@@ -1,3 +1,5 @@
+私の名前はみっつ
+
 <?php
 /**
  * Skype Bot Class
